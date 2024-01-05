@@ -6,7 +6,7 @@ My research interest includes **text-to-speech synthesis**, and **general audio 
 
 ### 🔥 News
 
-- *2023.11*: 🔥 We released *[Amphion v0.1](https://github.com/open-mmlab/Amphion)*, which is a open-source toolkit for audio, music, and speech generation.
+- *2023.11*: 🔥 We released *[Amphion v0.1](https://github.com/open-mmlab/Amphion)*, which is an open-source toolkit for audio, music, and speech generation.
 - *2023.09*: 🎉 My first paper about audio generation and editing *[AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models](https://arxiv.org/abs/2304.00830)* got accepted by NeurIPS 2023!
 
 
