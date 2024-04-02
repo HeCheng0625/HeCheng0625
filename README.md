@@ -17,8 +17,6 @@ I have developed *[NaturalSpeech 3](https://arxiv.org/abs/2403.03100)*, which is
 
 - [Personal Website](https://hecheng0625.github.io/)
 - [Google Scholar](https://scholar.google.com.tw/citations?user=60uamz4AAAAJ&hl=en)
-- WeChat Channels: *wyc20010625*
-
 
 <!--
 **HeCheng0625/HeCheng0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
