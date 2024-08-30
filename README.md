@@ -8,6 +8,7 @@ I have developed *[NaturalSpeech 3](https://arxiv.org/abs/2403.03100)*, which is
 
 ### 🔥 News
 
+- *2024.08*: 🎉 our paper *[Amphion](https://arxiv.org/abs/2312.09911)* and *[Emilia](https://arxiv.org/abs/2407.05361)* got accepted by IEEE SLT 2024.
 - *2024.07*: 🎉 We realsed *[Emilia](https://arxiv.org/abs/2407.05361v1)*, an extensive, multilingual, and diverse speech dataset for large-scale speech generation with 101k hours of speech in six languages and features diverse speech with varied speaking styles.
 - *2024.05*: 🎉 Our paper *[Factorized Diffusion Models are Natural and Zero-shot Speech Synthesizers](https://arxiv.org/abs/2304.00830)*, aka NaturalSpeech 3, got accepted by ICML 2024 as Oral presentation!
 - *2024.03*: 🎉 We are delighted to released *[NaturalSpeech 3](https://arxiv.org/abs/2403.03100)*, which is an advanced version of NaturalSpeech series with speech factorization. And we release **FACodec** checkpoints and demo in *[HuggingFace Amphion Space](https://huggingface.co/amphion)*.
