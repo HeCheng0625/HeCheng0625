@@ -8,6 +8,7 @@ I have developed *[NaturalSpeech 3](https://arxiv.org/abs/2403.03100)*, which is
 
 ### 🔥 News
 
+- *2024.09*: 🎉: Our paper, *[SD-Eval](https://arxiv.org/abs/2406.13340)*, got accepted by NeurIPS 2024.
 - *2024.09*: 🔥 We released *[MaskGCT](https://arxiv.org/abs/2409.00750)*, A new SOTA large-scale TTS system with masked generative models.
 - *2024.08*: 🎉 our papers, *[Amphion](https://arxiv.org/abs/2312.09911)* and *[Emilia](https://arxiv.org/abs/2407.05361)* got accepted by IEEE SLT 2024.
 - *2024.07*: 🔥 We released *[Emilia](https://arxiv.org/abs/2407.05361v1)*, an extensive, multilingual, and diverse speech dataset for large-scale speech generation with 101k hours of speech in six languages and features diverse speech with varied speaking styles.
