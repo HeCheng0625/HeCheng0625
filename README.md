@@ -8,6 +8,7 @@ I have developed *[NaturalSpeech 3](https://arxiv.org/abs/2403.03100)*, which is
 
 ### 🔥 News
 
+- *2024.10*: 🔥 We released [code](https://github.com/HeCheng0625/AmphionOpen/tree/dev/maskgct/models/tts/maskgct) and [checkpoints](https://huggingface.co/amphion/MaskGCT) of MaskGCT, MaskGCT has been used in [趣丸千音](https://voice.funnycp.com/#/). 
 - *2024.09*: 🎉: Our paper, *[SD-Eval](https://arxiv.org/abs/2406.13340)*, got accepted by NeurIPS 2024.
 - *2024.09*: 🔥 We released *[MaskGCT](https://arxiv.org/abs/2409.00750)*, A new SOTA large-scale TTS system with masked generative models.
 - *2024.08*: 🎉 our papers, *[Amphion](https://arxiv.org/abs/2312.09911)* and *[Emilia](https://arxiv.org/abs/2407.05361)* got accepted by IEEE SLT 2024.
@@ -20,7 +21,7 @@ I have developed *[NaturalSpeech 3](https://arxiv.org/abs/2403.03100)*, which is
 
 ### 🔗 Homepages
 
-<!-- - [Personal Website](https://hecheng0625.github.io/) -->
+- [Personal Website](https://hecheng0625.github.io/)
 - [Google Scholar](https://scholar.google.com.tw/citations?user=60uamz4AAAAJ&hl=en)
 
 <!--
