@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Yuancheng Wang (王远程). I'm a first-year Ph.D. student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by Professor [Zhizheng Wu](http://www.drwuz.com/). before that, I received my B.S. degree at CUHK-Shenzhen. I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/) from Microsoft Research Asia.
+I'm Yuancheng Wang (王远程), a third-year PhD student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by Prof. [Zhizheng Wu](http://www.drwuz.com/). My research focuses on generative AI for speech and multimodal learning. I am currently a research scientist intern at Meta Superintelligence Labs (formerly GenAI), working on enhancing the speech capabilities of LLaMA models.
 
-My research interest includes **text-to-speech synthesis**, **text-to-audio generation**, and **unified audio representation and generation**. I am one of the main contributors and leaders of the open-source *[Amphion](https://github.com/open-mmlab/Amphion)* toolkit.
+I have developed several advanced TTS models, including NaturalSpeech 3 and MaskGCT, and I am one of the main contributors and leaders of the open-source Amphion *[Amphion](https://github.com/open-mmlab/Amphion)* toolkit. My work has been published at top international AI conferences such as NeurIPS, ICML, ICLR, ACL, and IEEE SLT.
 
-I have developed *[NaturalSpeech 3](https://arxiv.org/abs/2403.03100)*, which is an advanced text-to-speech model with factorized speech representation and modeling.
+Previously, I have also interned at Microsoft Research Asia (MSRA) and ByteDance.
+
+Google Scholar: https://scholar.google.com/citations?user=60uamz4AAAAJ
 
 ### 🔥 News
 
